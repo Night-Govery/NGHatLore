@@ -1,0 +1,11 @@
+#限制lore，填写部分描述即可
+limit-lore: '可穿戴'
+#空手时提示信息
+no-item-message: '§c你必须手持物品才能使用此指令'
+#不包含限制lore时的提示信息
+no-lore-message: '§c该物品不可穿戴'
+#穿戴成功时提示信息
+on-hold-message: '§a穿戴成功'
+#权限不足时提示信息
+no-permission-message: '§c你没有权限这么做'
+

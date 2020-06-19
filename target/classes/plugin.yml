@@ -1,0 +1,7 @@
+name: NGHatLore
+version: 0.0.1
+main: com.nightgovery.nghatlore.NGHatLore
+authors: [NightGovery]
+
+commands:
+  nghat:
